@@ -1,0 +1,7 @@
+server:
+  port: 80
+
+pcftester:
+  app-specific-var: Hello, this is a config var for pcftester only
+
+
