@@ -17,3 +17,9 @@ The refresh of the mirrors didn't seem to work either
 
 
 The only way I can get it to work is to restart the application
+
+Need to do some more testing using the cook application as a template
+* how is the nested folder working
+* what is cook.txt
+* what is the node-config folder for
+* how to pull from the json file (desserts.json)
